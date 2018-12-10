@@ -32,6 +32,6 @@ At the bottom is a main() function which initializes the workload of the file. O
 
 ## Authors
 
-* **Andrew Narcomey** *, Stanford University, Department of Computer Science*
-* **Austin Narcomey** *, Stanford University, Department of Computer Science*
-* **Jonathan Zhu** *, Stanford University, Department of Computer Science*
+* **Andrew Narcomey***, Stanford University, Department of Computer Science*
+* **Austin Narcomey***, Stanford University, Department of Computer Science*
+* **Jonathan Zhu***, Stanford University, Department of Computer Science*
